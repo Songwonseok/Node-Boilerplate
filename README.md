@@ -6,7 +6,7 @@
 
 1. **Ncloud 서버 생성하고 ACG 추가**
 
-![image-20201005011105014](C:\Users\dnjst\AppData\Roaming\Typora\typora-user-images\image-20201005011105014.png)
+![image-20201005011105014](https://user-images.githubusercontent.com/7006837/95023120-2afd7400-06b6-11eb-9d5d-36e65b53f732.png)
 
 2. **Public IP 생성**
 
