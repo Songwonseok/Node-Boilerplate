@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# ssesion file
+sessions/
+
+# webpack
+dist/
